@@ -1,1 +1,2 @@
 # Guessing-game
+The Number Guessing Game is a simple interactive game where the player attempts to guess a randomly generated number within a specified range. The game will prompt you to enter the lower and upper bounds of the number range. The game then will generate a random number within the specified range. You will be prompted to guess the number. After each guess, the game will tell you if your guess is too high, too low, or correct. If you guess the correct number, you will be asked if you want to play again.
